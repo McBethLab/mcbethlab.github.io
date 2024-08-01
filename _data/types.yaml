@@ -1,33 +1,37 @@
 # map general type to default/fallback icon, text, etc.
 
 # team member roles
-pi:
-  icon: fa-solid fa-microscope
-  description: Principal Investigator
-
 director:
   icon: fa-solid fa-glasses
   description: Director
 
-postdoc:
+md:
   icon: fa-solid fa-glasses
-  description: Postdoctoral Researcher
+  description: Medical Director
 
+mp: 
+  icon: fa-solid fa-glasses
+  description: Medical Physicist
+  
 phyres:
   icon: fa-solid fa-microscope
   description: Physics Resident
 
-phd:
+masters:
   icon: fa-solid fa-graduation-cap
-  description: PhD Student
+  description: Master Student
+
+alum:
+  icon: fa-solid fa-glasses
+  description: Alumnus
 
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
-programmer:
+admin:
   icon: fa-solid fa-code
-  description: Programmer
+  description: Admin Assistant
 
 mascot:
   icon: fa-solid fa-dog
