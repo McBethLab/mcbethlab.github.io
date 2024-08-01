@@ -1,7 +1,7 @@
 ---
 name: Ivesavega Djianto
 image: images/ivesa_profile.jpg
-role: Student Worker
+role: undergrad
 links:
   email: ive@seas.upenn.edu
   linkedin: ivesavega
