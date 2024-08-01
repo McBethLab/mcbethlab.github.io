@@ -1,6 +1,6 @@
 ---
 name: Rafe McBeth
-image: images
+image: images/rafe_profile.jpg
 role: director
 links:
   email: Rafe.Mcbeth@pennmedicine.upenn.edu
