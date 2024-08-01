@@ -1,6 +1,6 @@
 ---
 name: Jace Grandinetti
-image: images/jace-profile.jpeg
+image: images/jace_profile.jpeg
 role: phyres
 links:
   email: 
