@@ -4,8 +4,6 @@ image: images/ivesa_profile.jpg
 role: Student Worker
 links:
   email: ive@seas.upenn.edu
-  linkedin: ivesavega
-  github: ivesavega
 ---
 
 Ivesa is a rising Junior from Jakarta, Indonesia, studying Systems Engineering in the School of Engineering and Applied Sciences with minors in Mathematics and Data Science.
