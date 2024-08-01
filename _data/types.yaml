@@ -6,12 +6,16 @@ pi:
   description: Principal Investigator
 
 director:
-  icon: fa-solid fa-microscope
+  icon: fa-solid fa-glasses
   description: Director
 
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
+
+phyres:
+  icon: fa-solid fa-microscope
+  description: Physics Resident
 
 phd:
   icon: fa-solid fa-graduation-cap
