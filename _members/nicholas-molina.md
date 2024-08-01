@@ -1,6 +1,6 @@
 ---
 name: Nicholas Molina
-image: images/nick_profile.jpg
+image: images/nick_profile.png
 role: undergrad
 links:
   email: ngmolina@seas.upenn.edu
