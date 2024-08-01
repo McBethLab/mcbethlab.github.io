@@ -19,7 +19,7 @@ phyres:
 
 masters:
   icon: fa-solid fa-graduation-cap
-  description: Master Student
+  description: Master's Student
 
 alum:
   icon: fa-solid fa-glasses
