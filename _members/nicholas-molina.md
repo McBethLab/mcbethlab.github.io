@@ -1,6 +1,6 @@
 ---
 name: Nicholas Molina
-image: images
+image: images/nick_profile.jpg
 role: Student Worker
 links:
   email: ngmolina@seas.upenn.edu
