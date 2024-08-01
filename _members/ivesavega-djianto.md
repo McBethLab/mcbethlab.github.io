@@ -1,6 +1,6 @@
 ---
 name: Ivesavega Djianto
-image: images/ivesa_profile.jpg
+image: mcbethlab.github.io/images/ivesa_profile.jpg
 role: Student Worker
 links:
   email: ive@seas.upenn.edu
