@@ -1,10 +1,13 @@
 # map general type to default/fallback icon, text, etc.
 
 # team member roles
-
 pi:
   icon: fa-solid fa-microscope
   description: Principal Investigator
+
+director:
+  icon: fa-solid fa-microscope
+  description: Director
 
 postdoc:
   icon: fa-solid fa-glasses
@@ -27,7 +30,6 @@ mascot:
   description: Mascot
 
 # general
-
 link:
   icon: fa-solid fa-globe
   text: Link
@@ -71,7 +73,6 @@ search:
   tooltip: Search
 
 # social media
-
 orcid:
   icon: fa-brands fa-orcid
   text: ORCID
@@ -121,7 +122,6 @@ linkedin:
   link: https://www.linkedin.com/in/$VALUE
 
 # alerts
-
 tip:
   icon: fa-solid fa-lightbulb
   color: "#d946ef"
@@ -147,7 +147,6 @@ error:
   color: "#ef4444"
 
 # publications
-
 paper:
   icon: fa-solid fa-scroll
   text: Paper
@@ -184,7 +183,6 @@ manubot:
   tooltip: Manubot
 
 # software
-
 docs:
   icon: fa-solid fa-book
   text: Documentation
