@@ -1,0 +1,7 @@
+- id: doi/full/10.1002/mp.14114
+  title: "Operating a treatment planning system using a deep-reinforcement learning-based virtual treatment planner for prostate cancer intensity-modulated radiation therapy treatment planning"
+  authors:
+    - "Author One"
+    - "Author Two"
+  journal: "Test Journal"
+  year: 2024
