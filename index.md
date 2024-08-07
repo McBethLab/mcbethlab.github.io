@@ -3,7 +3,7 @@
 
 # McBethLab's Website
 
-An engaging 1-3 sentence description of your lab.
+Our lab stands at the exciting intersection of artificial intelligence and radiation oncology. We're developing adaptive AI agents that evolve over time to enhance treatment planning, automate complex tasks, and continuously improve patient care. By fusing the expertise of doctors, medical physicists, and AI specialists, we're pioneering intelligent systems that promise to revolutionize cancer treatment and usher in a new era of personalized, AI-assisted healthcare.
 
 {% include section.html %}
 
