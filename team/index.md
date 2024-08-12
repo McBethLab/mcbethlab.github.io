@@ -10,8 +10,14 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: director" %}
+{% include list.html data="members" component="portrait" filters="role: Medical Director" %}
+{% include list.html data="members" component="portrait" filters="role: Medical Physicist" %}
+{% include list.html data="members" component="portrait" filters="role: Physics Resident" %}
+{% include list.html data="members" component="portrait" filters="role: Master's Student" %}
+{% include list.html data="members" component="portrait" filters="role: Undergraduate Student" %}
+{% include list.html data="members" component="portrait" filters="role: Alumnus" %}
+
 
 {% include section.html background="images/background.jpg" dark=true %}
 
