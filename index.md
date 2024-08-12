@@ -1,8 +1,8 @@
 ---
-title: Where Medicine and AI Intersect
+
 ---
 
-# McBethLab's Website
+# Welcome to McBethLab's Website - Where Medicine and AI Intersect
 
 Our research lab is at the forefront of applying artificial intelligence and automation methods to radiation oncology, with a focus on augmenting clinical decision-making and increasing care path efficiency. We are pioneering innovative approaches to enhance the capabilities of large language models in specialized medical fields, develop uncertainty quantification frameworks for radiotherapy AI models, and optimize active learning techniques to address the dynamic nature of medicine. Our work spans from theoretical foundations to practical clinical applications, always with the goal of improving patient care and treatment outcomes.
 
