@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are committed to bridging the gap between cutting-edge AI research and clinical practice, collaborating across disciplines and institutions to validate our models and methods, and training the next generation of medical scientist in the application of artificial intelligence to the clinic.
 
 {% include section.html %}
 
