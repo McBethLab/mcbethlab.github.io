@@ -1,4 +1,5 @@
 ---
+title: Where Medicine and AI Intersect
 ---
 
 # McBethLab's Website
