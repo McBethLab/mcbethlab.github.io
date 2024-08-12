@@ -1,6 +1,6 @@
 ---
 name: Mitchelle Parker
-image:
+image: images/mitch_profile.jpg
 role: alum
 links:
   email:
