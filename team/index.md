@@ -26,3 +26,11 @@ These are past lab members who have moved on to other school programs, new jobs,
 They have all made lasting contributions to science and to our hearts. ❤️
 
 {% include list.html data="members" component="portrait" filters="role: alum" style="small" %}
+
+{% include section.html %}
+
+{% capture content %}
+
+{% endcapture %}
+
+{% include grid.html style="square" content=content %} 
