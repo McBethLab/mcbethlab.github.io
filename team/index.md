@@ -11,12 +11,12 @@ nav:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: director" %}
-{% include list.html data="members" component="portrait" filters="role: Medical Director" %}
-{% include list.html data="members" component="portrait" filters="role: Medical Physicist" %}
-{% include list.html data="members" component="portrait" filters="role: Physics Resident" %}
-{% include list.html data="members" component="portrait" filters="role: Master's Student" %}
-{% include list.html data="members" component="portrait" filters="role: Undergraduate Student" %}
-{% include list.html data="members" component="portrait" filters="role: Alumnus" %}
+{% include list.html data="members" component="portrait" filters="role: md" %}
+{% include list.html data="members" component="portrait" filters="role: mp" %}
+{% include list.html data="members" component="portrait" filters="role: phyres" %}
+{% include list.html data="members" component="portrait" filters="role: masters" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad" %}
+{% include list.html data="members" component="portrait" filters="role: alum" %}
 
 
 {% include section.html background="images/background.jpg" dark=true %}
