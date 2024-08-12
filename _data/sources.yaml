@@ -1,6 +1,6 @@
 - id: doi: 10.48550/arXiv.2405.11040
 
-  type: paper
+  type: source
 # description: Operating a Treatment Planning System using a Deep-Reinforcement-Learning based Virtual Treatment Planner for Prostate Cancer Intensity-Modulated Radiation Therapy Treatment Planning
 # date: 2020-12-4
 #   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
