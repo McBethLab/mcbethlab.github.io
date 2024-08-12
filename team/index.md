@@ -17,21 +17,15 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: masters" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
-{% include section.html %}
+{% include section.html background="images/background.jpg" dark=true %}
 
-## Alumni
+## Alumni Spotlight
 
 Gone but never forgotten.
 These are past lab members who have moved on to other school programs, new jobs, or elsewhere.
 They have all made lasting contributions to science and to our hearts. ❤️
 
 {% include list.html data="members" component="portrait" filters="role: alum" style="small" %}
-
-{% include section.html background="images/background.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
