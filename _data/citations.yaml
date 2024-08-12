@@ -232,15 +232,11 @@
   - Steve B. Jiang
   - Xun Jia
   publisher: Medical Physics
-  date: '2020-12-04'
+  date: '2020-03-28'
   link: https://doi.org/gttcng
   orcid: 0000-0002-0924-6010
   plugin: sources.py
   file: sources.yaml
-  type: paper
-  description: Operating a Treatment Planning System using a Deep-Reinforcement-Learning
-    based Virtual Treatment Planner for Prostate Cancer Intensity-Modulated Radiation
-    Therapy Treatment Planning
 - id: wosuid:WOS:000699864000019
   title: 'Towards Safer Artificial Intelligence-Based Radiation Therapy Treatment
     Planning: Adding Uncertainty Estimation to Volumetric Dose Prediction Using An
