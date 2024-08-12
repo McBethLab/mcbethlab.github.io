@@ -16,8 +16,16 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: phyres" %}
 {% include list.html data="members" component="portrait" filters="role: masters" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
-{% include list.html data="members" component="portrait" filters="role: alum" %}
 
+{% include section.html %}
+
+## Alumni
+
+Gone but never forgotten.
+These are past lab members who have moved on to other school programs, new jobs, or elsewhere.
+They have all made lasting contributions to science and to our hearts. ❤️
+
+{% include list.html data="members" component="portrait" filters="role: alum" style="small" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
