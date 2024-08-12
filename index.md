@@ -12,7 +12,7 @@ Our research lab is at the forefront of applying artificial intelligence and aut
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We aim to revolutionize radiation oncology with AI and automation to enhance treatment precision and patient care.
 
 {%
   include button.html
@@ -27,9 +27,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research_home.jpg"
   link="research"
-  title="Our Research"
+  title="From Curiosity to Discovery"
   text=text
 %}
 
