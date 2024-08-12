@@ -1,6 +1,6 @@
 ---
 name: Hai Siong Tan
-image: image/haisiong_profile.jpg
+image: images/haisiong_profile.jpg
 role: alum
 links: 
   email:
