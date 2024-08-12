@@ -13,7 +13,8 @@ We are committed to bridging the gap between cutting-edge AI research and clinic
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Exploring UMAP in hybrid models of entropy-based and representativeness sampling
+    for active learning in biomedical segmentation" style="rich" %}
 
 {% include section.html %}
 
