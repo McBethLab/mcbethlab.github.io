@@ -1,5 +1,223 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.compbiomed.2024.108605
+  title: Exploring UMAP in hybrid models of entropy-based and representativeness sampling
+    for active learning in biomedical segmentation
+  authors:
+  - Hai Siong Tan
+  - Kuancheng Wang
+  - Rafe Mcbeth
+  publisher: Computers in Biology and Medicine
+  date: '2024-06-01'
+  link: https://doi.org/gt6v4d
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ctro.2023.100616
+  title: 'Artificial intelligence guided physician directive improves head and neck
+    planning quality and practice Uniformity: A prospective study'
+  authors:
+  - Maryam Mashayekhi
+  - Rafe McBeth
+  - Dan Nguyen
+  - Allen Yen
+  - Zipalkumar Trivedi
+  - Dominic Moon
+  - Vlad Avkshtol
+  - Dat Vo
+  - David Sher
+  - Steve Jiang
+  - Mu-Han Lin
+  publisher: Clinical and Translational Radiation Oncology
+  date: '2023-05-01'
+  link: https://doi.org/gt6v4g
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1148/ryai.210214
+  title: "A Proof-of-Concept Study of Artificial Intelligence\u2013assisted Contour\
+    \ Editing"
+  authors:
+  - Ti Bai
+  - Anjali Balagopal
+  - Michael Dohopolski
+  - Howard E. Morgan
+  - Rafe McBeth
+  - Jun Tan
+  - Mu-Han Lin
+  - David J. Sher
+  - Dan Nguyen
+  - Steve Jiang
+  publisher: 'Radiology: Artificial Intelligence'
+  date: '2022-09-01'
+  link: https://doi.org/gt6v4j
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/MP.15461
+  title: "Site\u2010agnostic 3D dose distribution prediction with deep learning neural\
+    \ networks"
+  authors:
+  - Maryam Mashayekhi
+  - Itzel Ramirez Tapia
+  - Anjali Balagopal
+  - Xinran Zhong
+  - Azar Sadeghnejad Barkousaraie
+  - Rafe McBeth
+  - "Mu\u2010Han Lin"
+  - Steve Jiang
+  - Dan Nguyen
+  publisher: Medical Physics
+  date: '2022-01-27'
+  link: https://doi.org/gtthdn
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1361-6560/ABE04F
+  title: A comparison of Monte Carlo dropout and bootstrap aggregation on the performance
+    and uncertainty estimation in radiation therapy dose prediction with deep learning
+    neural networks
+  authors:
+  - Dan Nguyen
+  - Azar Sadeghnejad Barkousaraie
+  - Gyanendra Bohara
+  - Anjali Balagopal
+  - Rafe McBeth
+  - Mu-Han Lin
+  - Steve Jiang
+  publisher: Physics in Medicine &amp; Biology
+  date: '2021-02-22'
+  link: https://doi.org/gm9p48
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000715803801424
+  title: 'Artificial Intelligence Guided Physician Directive Improves Head and Neck
+    Planning Quality and Practice Uniformity: A Prospective Study'
+  authors: []
+  publisher: International Journal of Radiation Oncology Biology Physics
+  date: '2022-09-13'
+  link: https://publons.com/wos-op/publon/52365368/
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000673145400135
+  title: 'BEST IN PHYSICS (THERAPY): Clinical Implementation of AI-Based 3D Dose Prediction
+    Model as Physician Directive Support Tool to Streamline Head and Neck Planning
+    Process'
+  authors: []
+  publisher: Medical Physics
+  date: '2023-07-21'
+  link: https://publons.com/wos-op/publon/52365369/
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000673145404398
+  title: Dosimetric Quality Comparisons Between MRI-Linac Vs Conventional VMAT for
+    Prostate SBRT
+  authors: []
+  publisher: Medical Physics
+  date: '2023-12-27'
+  link: https://publons.com/wos-op/publon/52365372/
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000673145403027
+  title: Dosimetrist Knowledge Transfer Using Intelligent Agents
+  authors: []
+  publisher: Medical Physics
+  date: '2023-07-21'
+  link: https://publons.com/wos-op/publon/52365370/
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000673145404286
+  title: Improved Dose Prediction Performance with Data Clustering and Transfer Learning
+    On H&N Cancer Patients
+  authors: []
+  publisher: Medical Physics
+  date: '2023-04-22'
+  link: https://publons.com/wos-op/publon/49782353/
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000673145401229
+  title: 'Towards Artificial Intelligence and Clinician Integrated Systems (AICIS):
+    Interactive Contour Revision with Deep Boundary Net'
+  authors: []
+  publisher: Medical Physics
+  date: '2023-06-07'
+  link: https://publons.com/wos-op/publon/50602971/
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000699864000244
+  title: Commissioning of a Deep Learning-Based Radiotherapy Dose Calculation Engine
+  authors: []
+  publisher: Medical Physics
+  date: '2023-07-21'
+  link: https://publons.com/wos-op/publon/52365377/
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000699863600548
+  title: Comparing the Stability of Deep Inspiration Breath-Holds Between ABC and
+    VisionRT During Breast Irradiation
+  authors: []
+  publisher: ''
+  date: '2022-05-04'
+  link: https://publons.com/publon/52365374/
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000699863600550
+  title: Comparison of Artificial Intelligence Based Decision Support Tool for Head
+    and Neck Treatment Planning
+  authors: []
+  publisher: Medical Physics
+  date: '2023-07-21'
+  link: https://publons.com/wos-op/publon/52365375/
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000699863600574
+  title: Deep Learning Based Treatment Plan Evaluation
+  authors: []
+  publisher: Medical Physics
+  date: '2023-07-21'
+  link: https://publons.com/wos-op/publon/52365376/
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000699823200568
+  title: Hard Constraint Approximation for Deep Learning in Radiation Therapy
+  authors: []
+  publisher: Medical Physics
+  date: '2023-07-21'
+  link: https://publons.com/wos-op/publon/52365373/
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/JCM9092718
+  title: Neural Networks to Predict Radiographic Brain Injury in Pediatric Patients
+    Treated with Extracorporeal Membrane Oxygenation
+  authors:
+  - Neel Shah
+  - Abdelaziz Farhat
+  - Jefferson Tweed
+  - Ziheng Wang
+  - Jeon Lee
+  - Rafe McBeth
+  - Michael Skinner
+  - Fenghua Tian
+  - Ravi Thiagarajan
+  - Lakshmi Raman
+  publisher: Journal of Clinical Medicine
+  date: '2020-08-22'
+  link: https://doi.org/gt6v4w
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/mp.14114
   title: "Operating a treatment planning system using a deep\u2010reinforcement learning\u2010\
     based virtual treatment planner for prostate cancer intensity\u2010modulated radiation\
@@ -16,9 +234,184 @@
   publisher: Medical Physics
   date: '2020-12-04'
   link: https://doi.org/gttcng
+  orcid: 0000-0002-0924-6010
+  plugin: sources.py
+  file: sources.yaml
   type: paper
   description: Operating a Treatment Planning System using a Deep-Reinforcement-Learning
     based Virtual Treatment Planner for Prostate Cancer Intensity-Modulated Radiation
     Therapy Treatment Planning
-  plugin: sources.py
-  file: sources.yaml
+- id: wosuid:WOS:000699864000019
+  title: 'Towards Safer Artificial Intelligence-Based Radiation Therapy Treatment
+    Planning: Adding Uncertainty Estimation to Volumetric Dose Prediction Using An
+    Approximate Bayesian Method On Deep Neural Networks'
+  authors: []
+  publisher: Medical Physics
+  date: '2023-07-21'
+  link: https://publons.com/wos-op/publon/49782359/
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000471277702299
+  title: Dose Prediction with Deep Learning for Prostate Cancer VMAT Treatments
+  authors: []
+  publisher: Medical Physics
+  date: '2022-05-31'
+  link: https://publons.com/publon/27863952/
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000471277705140
+  title: Evaluation of Three Different Smart Assistants for Treatment Planning of
+    VMAT Head and Neck Patients
+  authors: []
+  publisher: Medical Physics
+  date: '2023-10-10'
+  link: https://publons.com/wos-op/publon/27863953/
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/mp.13955
+  title: "Incorporating human and learned domain knowledge into training deep neural\
+    \ networks: A differentiable dose\u2010volume histogram and adversarial inspired\
+    \ framework for generating Pareto optimal dose distributions in radiation therapy"
+  authors:
+  - Dan Nguyen
+  - Rafe McBeth
+  - Azar Sadeghnejad Barkousaraie
+  - Gyanendra Bohara
+  - Chenyang Shen
+  - Xun Jia
+  - Steve Jiang
+  publisher: Medical Physics
+  date: '2019-12-29'
+  link: https://doi.org/gg7h6r
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000471277701047
+  title: Quality Based Self-Evolving Training for a Deep Learning Based Dose Predictor
+    for Head and Neck Patients
+  authors: []
+  publisher: Medical Physics
+  date: '2022-09-13'
+  link: https://publons.com/wos-op/publon/27863950/
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000471277702213
+  title: Standardizing Structure Labels in Head-And-Neck Region Using Non-Local 3D-ResNet
+  authors: []
+  publisher: Medical Physics
+  date: '2022-09-13'
+  link: https://publons.com/wos-op/publon/27863951/
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.lssr.2018.05.007
+  title: Spatial resolution requirements for active radiation detectors used beyond
+    low earth orbit
+  authors:
+  - Rafe A. McBeth
+  - Thomas B. Borak
+  publisher: Life Sciences in Space Research
+  date: '2018-08-01'
+  link: https://doi.org/gt6v4z
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000434978002366
+  title: 'Chest X-Ray Quality Assurance Using Convolutional Networks: Identification
+    of Clipped Images'
+  authors: []
+  publisher: Medical Physics
+  date: '2022-05-31'
+  link: https://publons.com/publon/27863954/
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1118/1.4956090
+  title: "SU\u2010F\u2010J\u2010182: Investigation of Systems for Improved Accuracy\
+    \ in Clinical Y\u201090 Percent Delivered Calculations"
+  authors:
+  - R McBeth
+  - D Elder
+  - A Kesner
+  publisher: Medical Physics
+  date: '2016-06-01'
+  link: https://doi.org/gt6v42
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.lssr.2015.10.005
+  title: Neutron yields and effective doses produced by Galactic Cosmic Ray interactions
+    in shielded environments in space
+  authors:
+  - Lawrence H. Heilbronn
+  - Thomas B. Borak
+  - Lawrence W. Townsend
+  - Pi-En Tsai
+  - Chelsea A. Burnham
+  - Rafe A. McBeth
+  publisher: Life Sciences in Space Research
+  date: '2015-11-01'
+  link: https://doi.org/gt6v43
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1118/1.4925073
+  title: "SU\u2010E\u2010T\u2010709: Spatial Resolution Requirements for Fragment\
+    \ Identification in a Carbon Ion Spread Out Bragg Peak"
+  authors:
+  - R McBeth
+  - T Borak
+  publisher: Medical Physics
+  date: '2015-06-01'
+  link: https://doi.org/gt6v44
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.lssr.2014.02.005
+  title: 'Quality factors for space radiation: A new approach'
+  authors:
+  - Thomas B. Borak
+  - Lawrence H. Heilbronn
+  - Lawrence W. Townsend
+  - Rafe A. McBeth
+  - Wouter de Wet
+  publisher: Life Sciences in Space Research
+  date: '2014-04-01'
+  link: https://doi.org/gt6v45
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/aero.2014.6836309
+  title: Neutron fluences and doses behind shielded environments in space
+  authors:
+  - Lawrence Heilbronn
+  - Lawrence Townsend
+  - Chelsea Burnham
+  - Hailey Green
+  - Pi-En Tsai
+  - Thomas Borak
+  - Rafe McBeth
+  publisher: 2014 IEEE Aerospace Conference
+  date: '2014-03-01'
+  link: https://doi.org/gt6v46
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84942693221
+  title: Production of neutrons by transport of a GCR solar minimum spectrum through
+    shielding
+  publisher: 18th Topical Meeting of the Radiation Protection and Shielding Division
+    of ANS, RPSD 2014
+  date: '2022-05-31'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84942693221&partnerID=MN8TOARS
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.ISSR.2014.02.005
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
