@@ -17,7 +17,7 @@ We aim to revolutionize radiation oncology with AI and automation to enhance tre
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See our research publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -35,12 +35,12 @@ We aim to revolutionize radiation oncology with AI and automation to enhance tre
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are focused on solving critical issues in radiation oncology. Each initiative is a targeted effort to innovate, improve, and ultimately transform patient care through cutting-edge technology and interdisciplinary collaboration.
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Explore our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -50,9 +50,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects_home.jpg"
   link="projects"
-  title="Our Projects"
+  title="Building the Future of Radiation Oncology"
   flip=true
   style="bare"
   text=text
@@ -60,7 +60,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a team of passionate researchers and innovators, each bringing something unique to the table. Together, we’re pushing the boundaries of radiation oncology and making a real difference in patient care.
 
 {%
   include button.html
@@ -75,8 +75,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team_home.jpg"
   link="team"
-  title="Our Team"
+  title="The Driving Force Behind Our Success"
   text=text
 %}
