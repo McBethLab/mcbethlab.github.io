@@ -13,8 +13,7 @@ We are committed to bridging the gap between cutting-edge AI research and clinic
 
 ## Highlighted
 
-{% include citation.html lookup="Exploring UMAP in hybrid models of entropy-based and representativeness sampling
-    for active learning in biomedical segmentation" style="rich" %}
+{% include citation.html lookup="doi:10.1016/j.compbiomed.2024.108605" style="rich" %}
 
 {% include section.html %}
 
