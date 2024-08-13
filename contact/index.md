@@ -40,3 +40,4 @@ Our lab is part of the [Penn Medicine](https://www.pennmedicine.org/)'s [Departm
   include grid.html
   content=content
   style="square"
+%}
