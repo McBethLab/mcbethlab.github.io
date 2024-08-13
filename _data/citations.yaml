@@ -13,7 +13,7 @@
   orcid: 0000-0002-0924-6010
   plugin: sources.py
   file: sources.yaml
-  image: images/highlighted_research.jpg
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0010482524006905-gr5_lrg.jpg
 - id: doi:10.1016/j.ctro.2023.100616
   title: 'Artificial intelligence guided physician directive improves head and neck
     planning quality and practice Uniformity: A prospective study'
@@ -236,8 +236,8 @@
   date: '2020-03-28'
   link: https://doi.org/gttcng
   orcid: 0000-0002-0924-6010
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: wosuid:WOS:000699864000019
   title: 'Towards Safer Artificial Intelligence-Based Radiation Therapy Treatment
     Planning: Adding Uncertainty Estimation to Volumetric Dose Prediction Using An
