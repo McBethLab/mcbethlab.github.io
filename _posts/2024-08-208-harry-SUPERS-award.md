@@ -1,6 +1,6 @@
 ---
 title: DR. STEPHEN W. TUTTLE RESEARCH AWARD
-author: Kuancheng (Harry) Wang
+author: kuancheng-wang
 tags: Radiotherapy, Deep Learning
 ---
 
