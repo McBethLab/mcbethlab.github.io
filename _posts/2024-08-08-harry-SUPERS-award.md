@@ -2,8 +2,8 @@
 title: DR. STEPHEN W. TUTTLE RESEARCH AWARD
 author: kuangcheng-wang
 tags: 
-- Radiotherapy
-- Deep Learning
+- Generative Deep Learning
+- Radiotherapy Planning
 ---
 
 ## “Generating Deliverable Radiotherapy Plans with Diffusion Models” in SUPERS@PENN 24’ 
@@ -14,7 +14,7 @@ To accelerate the traditional radiotherapy treatment planning, my project focuse
 
 I also would like to extend my gratitude to Dr. Jay Dorsey, Dr. Costas Koumenis, Dr. Crys S. Conn, Dr. Ioannis Verginadis, and Jessica Kushner for their efforts in organizing this wonderful program. Last but not the least, my thanks go to my roommates and peers in this program for their support in this impressive summer at Philly.
 
-Building on this experience, I am excited to embark on the next chapters of my research journey! Full post can be found [here](https://www.linkedin.com/feed/update/urn:li:activity:7228097571414589440/)
+Building on this experience, I am excited to embark on the next chapters of my research journey! Learn more about the award[here.](https://www.med.upenn.edu/supers/dr-stephen-tuttle.html)
 
 {%
   include figure.html
