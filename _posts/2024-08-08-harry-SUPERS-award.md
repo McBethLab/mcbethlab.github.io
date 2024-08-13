@@ -14,7 +14,7 @@ To accelerate the traditional radiotherapy treatment planning, my project focuse
 
 I also would like to extend my gratitude to Dr. Jay Dorsey, Dr. Costas Koumenis, Dr. Crys S. Conn, Dr. Ioannis Verginadis, and Jessica Kushner for their efforts in organizing this wonderful program. Last but not the least, my thanks go to my roommates and peers in this program for their support in this impressive summer at Philly.
 
-Building on this experience, I am excited to embark on the next chapters of my research journey! Post can be found [here](https://www.linkedin.com/feed/update/urn:li:activity:7228097571414589440/)
+Building on this experience, I am excited to embark on the next chapters of my research journey! Full post can be found [here](https://www.linkedin.com/feed/update/urn:li:activity:7228097571414589440/)
 
 {%
   include figure.html
