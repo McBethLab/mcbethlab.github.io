@@ -1,6 +1,6 @@
 ---
 title: DR. STEPHEN W. TUTTLE RESEARCH AWARD
-member: kuancheng-wang
+member: kuangcheng-wang
 tags: 
 ---
 
