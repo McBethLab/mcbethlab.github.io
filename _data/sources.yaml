@@ -1,4 +1,6 @@
 - id: doi:10.1002/mp.14114
+- id: doi:10.1016/j.compbiomed.2024.108605
+  image: images/highlighted_research.jpg
 
   # type: source
 # description: Operating a Treatment Planning System using a Deep-Reinforcement-Learning based Virtual Treatment Planner for Prostate Cancer Intensity-Modulated Radiation Therapy Treatment Planning
