@@ -2,13 +2,12 @@
 title: Blog
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: Check out our blog
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Discover the cutting-edge breakthroughs and success stories from our Radiation Oncology team. Dive into our blog for the latest in innovative treatments and research milestones!
 
 {% include section.html %}
 
