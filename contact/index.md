@@ -19,8 +19,7 @@ Our lab is part of the [Penn Medicine](https://www.pennmedicine.org/)'s [Departm
 {%
   include button.html
   type="email"
-  text=site.links.email
-  link=site.links.email
+  link="Rafe.Mcbeth@pennmedicine.upenn.edu"
 %}
 
 {%
