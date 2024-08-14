@@ -11,7 +11,7 @@ Our lab is part of the [Penn Medicine](https://www.pennmedicine.org/)'s [Departm
 
 {%
   include figure.html
-  image="images/pennmed_foto.jpg"
+  image="images/pennmed_foto.png"
   link="https://www.pennmedicine.org/"
   width="400px"
 %}
