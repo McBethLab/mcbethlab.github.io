@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Projects
 nav:
   order: 2
@@ -25,3 +25,4 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 ## More
 
 {% include list.html component="card" data="blog" filters="group: " style="small" %}
+-->
