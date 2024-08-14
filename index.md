@@ -39,8 +39,8 @@ We are focused on solving critical issues in radiation oncology. Each initiative
 
 {%
   include button.html
-  link="projects"
-  text="Explore our projects"
+  link="blog"
+  text="Explore our blogs"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -50,8 +50,8 @@ We are focused on solving critical issues in radiation oncology. Each initiative
 
 {%
   include feature.html
-  image="images/projects_home.jpg"
-  link="projects"
+  image="images/blog_home.jpg"
+  link="blog"
   title="Building the Future of Radiation Oncology"
   flip=true
   style="bare"
