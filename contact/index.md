@@ -12,22 +12,22 @@ Our lab is part of the [Penn Medicine](https://www.pennmedicine.org/)'s [Departm
 {%
   include figure.html
   image="images/pennmed_foto.jpg"
-  link="[https://medschool.cuanschutz.edu/](https://www.pennmedicine.org/)"
+  link="https://www.pennmedicine.org/"
   width="400px"
 %}
 
 {%
   include button.html
   type="email"
-  text="Email"
-  link="Rafe.Mcbeth@pennmedicine.upenn.edu"
+  text=site.links.email
+  link=site.links.email
 %}
 
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="[https://maps.app.goo.gl/tPArMR3cBF1tx2fz7]"
+  link="https://maps.app.goo.gl/tPArMR3cBF1tx2fz7"
 %}
 
 {% capture content %}
