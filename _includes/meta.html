@@ -24,8 +24,6 @@
     {{ site.subtitle }}. {{ description }}
   {%- endcapture %}
 {% endif %}
-{% capture url -%}
-  {{ site.url }}{{ site.baseurl }}
 {% assign url = site.location %}
 
 {% assign png = "images/icon.png" | file_exists %}
