@@ -212,13 +212,13 @@ id: eid:2-s2.0-84942693221
   # neutron fluences
   image: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-38990-1/MediaObjects/41598_2023_38990_Fig1_HTML.png
 
-- id: doi:10.1016/j.lssr.2014.02.005
-  # quality factors
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S221455241400011X-gr010.jpg
+# - id: doi:10.1016/j.lssr.2014.02.005
+#   # quality factors
+#   image: https://ars.els-cdn.com/content/image/1-s2.0-S221455241400011X-gr010.jpg
 
-- id: doi:10.1016/J.ISSR.2014.02.005
-  # duplicate
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S221455241400011X-gr010.jpg
+# - id: doi:10.1016/J.ISSR.2014.02.005
+#   # duplicate
+#   image: https://ars.els-cdn.com/content/image/1-s2.0-S221455241400011X-gr010.jpg
 
 - id: doi:10.1016/j.lssr.2015.10.005
   # neutron yields
