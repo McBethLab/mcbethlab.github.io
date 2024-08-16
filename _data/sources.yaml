@@ -2,39 +2,111 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0010482524006905-gr5_lrg.jpg 
 
 - id: doi:10.1016/j.ctro.2023.100616
-  image: images/ai_research.png
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2405630823000411-gr1a_lrg.jpg
 
 - id: doi:10.1148/ryai.210214
-  image: images/proof_research.png
+  image: https://pubs.rsna.org/cms/10.1148/ryai.210214/asset/images/large/ryai.210214.fig2.jpeg
 
 - id: doi:10.1002/MP.15461
-  image: images/3D_research.png
+  image: https://aapm.onlinelibrary.wiley.com/cms/asset/7202a980-f8c1-4ab1-a193-0660936f2f45/mp15461-fig-0001-m.jpg
 
 - id: doi:10.1088/1361-6560/ABE04F
-  image: images/monte_research.png
+  image: https://content.cld.iop.org/journals/0031-9155/66/5/054002/revision3/pmbabe04ff3_lr.jpg
 
 - id: wosuid:WOS:000715803801424
-  image: images/ai_research.png
-  
-  # type: source
-# description: Operating a Treatment Planning System using a Deep-Reinforcement-Learning based Virtual Treatment Planner for Prostate Cancer Intensity-Modulated Radiation Therapy Treatment Planning
-# date: 2020-12-4
-#   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-#   buttons:
-#     - type: manubot
-#       link: https://greenelab.github.io/meta-review/
-#     - type: source
-#       text: Manuscript Source
-#       link: https://github.com/greenelab/meta-review
-#     - type: website
-#       link: http://manubot.org/
-#   tags:
-#     - open science
-#     - collaboration
-#   repo: greenelab/meta-review
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2405630823000411-gr1a_lrg.jpg
+  authors:
+  - Hai Siong Tan
+  - Kuancheng Wang
+  - Rafe Mcbeth
 
-# - id: doi:10.1016/j.csbj.2020.05.017
-#   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: wosuid:WOS:000673145400135
+  image: https://assets.vl.aapm.org/vl/2021/AM/0-15222-Mashayekhi.jpg
+  authors:
+  - Maryam Mashayekhi
+  - Rafe Mcbeth
+  - Zipalkumar Trivedi
+  - Dan Nguyen
+  - Steve Jiang
+  - Mu-Han Lin
 
-# - id: doi:10.7554/eLife.32822
-#   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: wosuid:WOS:000673145404398
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13014-021-01858-7/MediaObjects/13014_2021_1858_Fig1_HTML.png
+  authors:
+  - Rafe Mcbeth 
+  - Mindy Joo
+  - Zhuang Xiong
+  - Jae Mo Park
+  - Amir Owrangi
+
+- id: wosuid:WOS:000673145403027
+  image: https://www.mdpi.com/sensors/sensors-24-04741/article_deploy/html/images/sensors-24-04741-g003-550.jpg
+  authors:
+  - Maryam Mashayekhi
+  - Rafe Mcbeth
+  - Zipalkumar Trivedi
+  - Dan Nguyen
+  - Steve Jiang
+  - Mu-Han Lin
+
+- id: wosuid:WOS:000673145404286
+  image: https://www.frontiersin.org/files/Articles/624820/fgene-12-624820-HTML/image_m/fgene-12-624820-g001.jpg
+  authors:
+  - Dan Nguyen
+  - Rafe Mcbeth
+  - Ti Bai
+  - Azar Sadeghnejad Barkousaraie
+  - Ashwin Balagopal
+  - Steve Jiang
+
+- id: wosuid:WOS:000673145401229
+  image: https://assets.vl.aapm.org/vl/2021/AM/0-15564-Bai.jpg
+  authors: 
+  - Ti Bai
+  - Ashwin Balagopal
+  - Michael Dohopolski
+  - Howard Morgan
+  - Rafe McBeth
+  - Jun Tan
+  - Dan Nguyen
+  - Steve Jiang
+
+- id: wosuid:WOS:000699864000244
+  image: https://physicsworld.com/wp-content/uploads/2022/06/Jiang-PB-to-MC.jpg
+  authors:
+  - Xinran Zhong
+  - Chao Xing
+  - Dan Nguyen
+  - Rafe McBeth
+  - Roya Norouzi-Kandalan
+  - Yue Zhang
+  - Mu-Han Lin
+  - Wei Lu
+  - Steve Jiang
+
+- id: wosuid:WOS:000699863600548
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12282-021-01259-4/MediaObjects/12282_2021_1259_Fig1_HTML.jpg
+  authors:
+  - Zohaib Iqbal
+  - Rafe McBeth
+  - Mindy Joo
+  - Daniel Parsons
+  - Asal Rahimi
+  - Seung Kim
+  - Amit Sawant
+  - Xuejun Gu
+  - Bo Zhao
+
+- id: wosuid:WOS:000699863600550
+  image: https://www.frontiersin.org/files/Articles/777793/fonc-12-777793-HTML/image_m/fonc-12-777793-g001.jpg
+  authors:
+  - Rafe McBeth
+  - Dan Nguyen
+  - Hua Wang
+  - Roya Norouzi-Kandalan
+  - Maryam Mashayekhi
+  - Xinran Zhong
+  - Zohaib Iqbal
+  - Andrew Godley
+  - Steve Jiang
+  - Mu-Han Lin
