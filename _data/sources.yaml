@@ -216,6 +216,10 @@ id: eid:2-s2.0-84942693221
   # quality factors
   image: https://ars.els-cdn.com/content/image/1-s2.0-S221455241400011X-gr010.jpg
 
+- id: doi:10.1016/J.ISSR.2014.02.005
+  # duplicate
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S221455241400011X-gr010.jpg
+
 - id: doi:10.1016/j.lssr.2015.10.005
   # neutron yields
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2214552415000863-gr009.jpg
