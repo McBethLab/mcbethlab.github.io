@@ -1,6 +1,21 @@
 - id: doi:10.1016/j.compbiomed.2024.108605
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0010482524006905-gr5_lrg.jpg 
 
+- id: doi:10.1016/j.ctro.2023.100616
+  image: images/ai_research.png
+
+- id: doi:10.1148/ryai.210214
+  image: images/proof_research.png
+
+- id: doi:10.1002/MP.15461
+  image: images/3D_research.png
+
+- id: doi:10.1088/1361-6560/ABE04F
+  image: images/monte_research.png
+
+- id: wosuid:WOS:000715803801424
+  image: images/ai_research.png
+  
   # type: source
 # description: Operating a Treatment Planning System using a Deep-Reinforcement-Learning based Virtual Treatment Planner for Prostate Cancer Intensity-Modulated Radiation Therapy Treatment Planning
 # date: 2020-12-4
