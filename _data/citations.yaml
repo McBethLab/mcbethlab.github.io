@@ -35,7 +35,7 @@
   orcid: 0000-0002-0924-6010
   plugin: sources.py
   file: sources.yaml
-  image: images/ai_research.png
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2405630823000411-gr1a_lrg.jpg
 - id: doi:10.1148/ryai.210214
   title: "A Proof-of-Concept Study of Artificial Intelligence\u2013assisted Contour\
     \ Editing"
@@ -56,7 +56,7 @@
   orcid: 0000-0002-0924-6010
   plugin: sources.py
   file: sources.yaml
-  image: images/proof_research.png
+  image: https://pubs.rsna.org/cms/10.1148/ryai.210214/asset/images/large/ryai.210214.fig2.jpeg
 - id: doi:10.1002/MP.15461
   title: "Site\u2010agnostic 3D dose distribution prediction with deep learning neural\
     \ networks"
@@ -76,7 +76,7 @@
   orcid: 0000-0002-0924-6010
   plugin: sources.py
   file: sources.yaml
-  image: images/3D_research.png
+  image: https://aapm.onlinelibrary.wiley.com/cms/asset/7202a980-f8c1-4ab1-a193-0660936f2f45/mp15461-fig-0001-m.jpg
 - id: doi:10.1088/1361-6560/ABE04F
   title: A comparison of Monte Carlo dropout and bootstrap aggregation on the performance
     and uncertainty estimation in radiation therapy dose prediction with deep learning
@@ -95,97 +95,167 @@
   orcid: 0000-0002-0924-6010
   plugin: sources.py
   file: sources.yaml
-  image: images/monte_research.png
+  image: https://content.cld.iop.org/journals/0031-9155/66/5/054002/revision3/pmbabe04ff3_lr.jpg
 - id: wosuid:WOS:000715803801424
   title: 'Artificial Intelligence Guided Physician Directive Improves Head and Neck
     Planning Quality and Practice Uniformity: A Prospective Study'
-  authors: []
+  authors:
+  - Hai Siong Tan
+  - Kuancheng Wang
+  - Rafe Mcbeth
   publisher: International Journal of Radiation Oncology Biology Physics
   date: '2022-09-13'
   link: https://publons.com/wos-op/publon/52365368/
   orcid: 0000-0002-0924-6010
   plugin: sources.py
   file: sources.yaml
-  image: images/ai_research.png
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2405630823000411-gr1a_lrg.jpg
 - id: wosuid:WOS:000673145400135
   title: 'BEST IN PHYSICS (THERAPY): Clinical Implementation of AI-Based 3D Dose Prediction
     Model as Physician Directive Support Tool to Streamline Head and Neck Planning
     Process'
-  authors: []
+  authors:
+  - Maryam Mashayekhi
+  - Rafe Mcbeth
+  - Zipalkumar Trivedi
+  - Dan Nguyen
+  - Steve Jiang
+  - Mu-Han Lin
   publisher: Medical Physics
   date: '2023-07-21'
   link: https://publons.com/wos-op/publon/52365369/
   orcid: 0000-0002-0924-6010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://assets.vl.aapm.org/vl/2021/AM/0-15222-Mashayekhi.jpg
 - id: wosuid:WOS:000673145404398
   title: Dosimetric Quality Comparisons Between MRI-Linac Vs Conventional VMAT for
     Prostate SBRT
-  authors: []
+  authors:
+  - Rafe Mcbeth
+  - Mindy Joo
+  - Zhuang Xiong
+  - Jae Mo Park
+  - Amir Owrangi
   publisher: Medical Physics
   date: '2023-12-27'
   link: https://publons.com/wos-op/publon/52365372/
   orcid: 0000-0002-0924-6010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13014-021-01858-7/MediaObjects/13014_2021_1858_Fig1_HTML.png
 - id: wosuid:WOS:000673145403027
   title: Dosimetrist Knowledge Transfer Using Intelligent Agents
-  authors: []
+  authors:
+  - Maryam Mashayekhi
+  - Rafe Mcbeth
+  - Zipalkumar Trivedi
+  - Dan Nguyen
+  - Steve Jiang
+  - Mu-Han Lin
   publisher: Medical Physics
   date: '2023-07-21'
   link: https://publons.com/wos-op/publon/52365370/
   orcid: 0000-0002-0924-6010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.mdpi.com/sensors/sensors-24-04741/article_deploy/html/images/sensors-24-04741-g003-550.jpg
 - id: wosuid:WOS:000673145404286
   title: Improved Dose Prediction Performance with Data Clustering and Transfer Learning
     On H&N Cancer Patients
-  authors: []
+  authors:
+  - Dan Nguyen
+  - Rafe Mcbeth
+  - Ti Bai
+  - Azar Sadeghnejad Barkousaraie
+  - Ashwin Balagopal
+  - Steve Jiang
   publisher: Medical Physics
   date: '2023-04-22'
   link: https://publons.com/wos-op/publon/49782353/
   orcid: 0000-0002-0924-6010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.frontiersin.org/files/Articles/624820/fgene-12-624820-HTML/image_m/fgene-12-624820-g001.jpg
 - id: wosuid:WOS:000673145401229
   title: 'Towards Artificial Intelligence and Clinician Integrated Systems (AICIS):
     Interactive Contour Revision with Deep Boundary Net'
-  authors: []
+  authors:
+  - Ti Bai
+  - Ashwin Balagopal
+  - Michael Dohopolski
+  - Howard Morgan
+  - Rafe McBeth
+  - Jun Tan
+  - Dan Nguyen
+  - Steve Jiang
   publisher: Medical Physics
   date: '2023-06-07'
   link: https://publons.com/wos-op/publon/50602971/
   orcid: 0000-0002-0924-6010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://assets.vl.aapm.org/vl/2021/AM/0-15564-Bai.jpg
 - id: wosuid:WOS:000699864000244
   title: Commissioning of a Deep Learning-Based Radiotherapy Dose Calculation Engine
-  authors: []
+  authors:
+  - Xinran Zhong
+  - Chao Xing
+  - Dan Nguyen
+  - Rafe McBeth
+  - Roya Norouzi-Kandalan
+  - Yue Zhang
+  - Mu-Han Lin
+  - Wei Lu
+  - Steve Jiang
   publisher: Medical Physics
   date: '2023-07-21'
   link: https://publons.com/wos-op/publon/52365377/
   orcid: 0000-0002-0924-6010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://physicsworld.com/wp-content/uploads/2022/06/Jiang-PB-to-MC.jpg
 - id: wosuid:WOS:000699863600548
   title: Comparing the Stability of Deep Inspiration Breath-Holds Between ABC and
     VisionRT During Breast Irradiation
-  authors: []
+  authors:
+  - Zohaib Iqbal
+  - Rafe McBeth
+  - Mindy Joo
+  - Daniel Parsons
+  - Asal Rahimi
+  - Seung Kim
+  - Amit Sawant
+  - Xuejun Gu
+  - Bo Zhao
   publisher: ''
   date: '2022-05-04'
   link: https://publons.com/publon/52365374/
   orcid: 0000-0002-0924-6010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12282-021-01259-4/MediaObjects/12282_2021_1259_Fig1_HTML.jpg
 - id: wosuid:WOS:000699863600550
   title: Comparison of Artificial Intelligence Based Decision Support Tool for Head
     and Neck Treatment Planning
-  authors: []
+  authors:
+  - Rafe McBeth
+  - Dan Nguyen
+  - Hua Wang
+  - Roya Norouzi-Kandalan
+  - Maryam Mashayekhi
+  - Xinran Zhong
+  - Zohaib Iqbal
+  - Andrew Godley
+  - Steve Jiang
+  - Mu-Han Lin
   publisher: Medical Physics
   date: '2023-07-21'
   link: https://publons.com/wos-op/publon/52365375/
   orcid: 0000-0002-0924-6010
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.frontiersin.org/files/Articles/777793/fonc-12-777793-HTML/image_m/fonc-12-777793-g001.jpg
 - id: wosuid:WOS:000699863600574
   title: Deep Learning Based Treatment Plan Evaluation
   authors: []
