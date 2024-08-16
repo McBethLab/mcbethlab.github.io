@@ -237,7 +237,6 @@
   # spatial resolution for fragment
   image: https://www.researchgate.net/publication/317259712/figure/fig2/AS:500809236062208@1496413634790/a-Depth-dose-distribution-deriving-from-the-entire-radiation-field-Bragg-curve-in.png
 
-  
 - id: doi:10.1016/j.lssr.2018.05.007
   # spatial resolution req for active detectors
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2214552418300208-gr5.jpg
@@ -253,5 +252,3 @@
 - id: doi:10.3390/JCM9092718
   # neural networks
   image: https://www.mdpi.com/jcm/jcm-09-02718/article_deploy/html/images/jcm-09-02718-g0A2a.png
-
-- 
