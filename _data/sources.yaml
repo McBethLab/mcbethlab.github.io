@@ -60,6 +60,7 @@
   - Steve Jiang
 
 - id: wosuid:WOS:000673145401229
+  # towards ai
   image: https://assets.vl.aapm.org/vl/2021/AM/0-15564-Bai.jpg
   authors: 
   - Ti Bai
@@ -72,6 +73,7 @@
   - Steve Jiang
 
 - id: wosuid:WOS:000699864000244
+  # commissioning
   image: https://physicsworld.com/wp-content/uploads/2022/06/Jiang-PB-to-MC.jpg
   authors:
   - Xinran Zhong
@@ -85,6 +87,7 @@
   - Steve Jiang
 
 - id: wosuid:WOS:000699863600548
+  # comparing stability
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12282-021-01259-4/MediaObjects/12282_2021_1259_Fig1_HTML.jpg
   authors:
   - Zohaib Iqbal
@@ -98,6 +101,7 @@
   - Bo Zhao
 
 - id: wosuid:WOS:000699863600550
+  # comparison
   image: https://www.frontiersin.org/files/Articles/777793/fonc-12-777793-HTML/image_m/fonc-12-777793-g001.jpg
   authors:
   - Rafe McBeth
@@ -110,3 +114,144 @@
   - Andrew Godley
   - Steve Jiang
   - Mu-Han Lin
+
+- id: wosuid:WOS:000471277705140
+  # evaluation
+  image: https://www.frontiersin.org/files/Articles/777793/fonc-12-777793-HTML/image_m/fonc-12-777793-g001.jpg
+  authors:
+  - Rafe Mcbeth
+  - Mu-Han Lin
+  - Dan Nguyen
+  - Steve Jiang
+
+- id: wosuid:WOS:000699864000019
+  # towards safer
+  image: https://www.medrxiv.org/content/medrxiv/early/2024/05/13/2024.05.13.24307226/F6.large.jpg
+  authors:
+  - Rafe Mcbeth
+  - Dan Nguyen
+  - Steve Jiang
+  - Aswathi Balagopal
+  - Azar Barkousaraie
+
+- id: wosuid:WOS:000699823200568
+  # hard constraint
+  image: https://www.mdpi.com/applsci/applsci-14-00189/article_deploy/html/images/applsci-14-00189-g002-550.jpg
+  authors:
+  - Rafe McBeth
+  - Mu-Han Lin
+  - Andrew Godley
+  - Steve Jiang
+  - Dan Nguyen
+
+- id: wosuid:WOS:000699863600574
+  # deep learning based 
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0167814022000986-gr1.jpg
+  authors: 
+  - Xinran Zhong
+  - Dan Nguyen
+  - Rafe McBeth
+  - Aswathi Balagopal
+  - Maryam Mashayekhi
+  - Mu-Han Lin
+  - Steve Jiang
+
+- id: wosuid:WOS:000471277702299
+  # dose prediction
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2405631621000439-gr6.jpg
+  authors:
+  - Roya Norouzi-Kandalan
+  - Dan Nguyen
+  - Zipalkumar Trivedi
+  - Mu-Han Lin
+  - Ana Barragan Montero
+  - Rafe McBeth
+  - Jaewon Yang
+  - Wei Lu
+  - Kamesh Namuduri
+  - Steve Jiang
+
+- id: wosuid:WOS:000471277701047
+  # quality based
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1879850022003885-gr1.jpg
+  authors:
+  - Rafe Mcbeth
+  - Dan Nguyen
+  - Steve Jiang
+
+- id: wosuid:WOS:000471277702213
+  # standardizing
+  image: https://www.mdpi.com/entropy/entropy-24-01661/article_deploy/html/images/entropy-24-01661-g001.png
+  authors: 
+  - Jaewon Yang
+  - Emmanuel Rozario
+  - Ana Barragan Montero
+  - Mu-Han Lin
+  - Rafe Mcbeth 
+  - Steve Jiang
+  - Hui Chao
+
+- id: wosuid:WOS:000434978002366
+  # chest x-ray
+  image: https://media.springernature.com/lw1200/springer-static/image/art%3A10.1007%2Fs00521-024-09587-0/MediaObjects/521_2024_9587_Fig7_HTML.png
+  authors:
+  - Rafe Mcbeth
+  - Donglai Huo
+
+- id: doi:10.1016/J.ISSR.2014.02.005
+  # production of neutrons
+  image: https://www.researchgate.net/profile/Brandon-Reddell/publication/316291684/figure/fig3/AS:779137782382593@1562772331402/Neutrons-n-exiting-Al-cylinders-exposed-to-GCR-solar-minimum-for-a-1-H-b-16-O-and.png
+  authors:
+  - Pi-En Tsai
+  - Thomas Borak
+  - Rafe McBeth
+  - Lawrence Heilbronn
+  - Lawrence Townsend
+
+- id: doi:10.1016/J.ISSR.2014.02.005
+  # multinational conference
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1879850018303448-gr1.jpg
+  link: https://aapm.confex.com/aapm/2023scm/meetingapp.cgi/Paper/1391
+  authors:
+  - Lian Duan
+  - Kelly Kisling
+  - Rafe Mcbeth
+
+- id: doi:10.1109/aero.2014.6836309
+  # neutron fluences
+  image: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-38990-1/MediaObjects/41598_2023_38990_Fig1_HTML.png
+
+- id: doi:10.1016/j.lssr.2014.02.005
+  # quality factors
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S221455241400011X-gr010.jpg
+
+- id: doi:10.1016/j.lssr.2015.10.005
+  # neutron yields
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2214552415000863-gr009.jpg
+
+- id: doi:10.1118/1.4956090
+  # investigation of systems
+  image: https://media.springernature.com/lw1200/springer-static/image/art%3A10.1186%2Fs12909-023-04698-z/MediaObjects/12909_2023_4698_Fig1_HTML.png
+
+- id: doi:10.1118/1.4925073
+  # spatial resolution for fragment
+  image: https://www.researchgate.net/publication/317259712/figure/fig2/AS:500809236062208@1496413634790/a-Depth-dose-distribution-deriving-from-the-entire-radiation-field-Bragg-curve-in.png
+
+  
+- id: doi:10.1016/j.lssr.2018.05.007
+  # spatial resolution req for active detectors
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2214552418300208-gr5.jpg
+
+- id: doi:10.1002/mp.13955
+  # incorporating human
+  image: https://www.researchgate.net/publication/337875547/figure/fig1/AS:11431281255277671@1719414198872/Dose-volume-histogram-DVH-and-approximated-DVH-calculations-using-varying-steepness_Q320.jpg
+
+- id: doi:10.1002/mp.14114
+  # operating
+  image: https://aapm.onlinelibrary.wiley.com/cms/asset/6427db3f-e49e-4729-9cb9-1be5b8479d12/mp14114-fig-0004-m.jpg
+
+- id: doi:10.3390/JCM9092718
+  # neural networks
+  image: https://www.mdpi.com/jcm/jcm-09-02718/article_deploy/html/images/jcm-09-02718-g0A2a.png
+
+- 
