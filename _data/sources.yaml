@@ -198,15 +198,15 @@
   - Rafe Mcbeth
   - Donglai Huo
 
-- id: eid:2-s2.0-84942693221
-  # production of neutrons
-  image: https://www.researchgate.net/profile/Brandon-Reddell/publication/316291684/figure/fig3/AS:779137782382593@1562772331402/Neutrons-n-exiting-Al-cylinders-exposed-to-GCR-solar-minimum-for-a-1-H-b-16-O-and.png
-  authors:
-  - Pi-En Tsai
-  - Thomas Borak
-  - Rafe McBeth
-  - Lawrence Heilbronn
-  - Lawrence Townsend
+# - id: eid:2-s2.0-84942693221
+#   # production of neutrons
+#   image: https://www.researchgate.net/profile/Brandon-Reddell/publication/316291684/figure/fig3/AS:779137782382593@1562772331402/Neutrons-n-exiting-Al-cylinders-exposed-to-GCR-solar-minimum-for-a-1-H-b-16-O-and.png
+#   authors:
+#   - Pi-En Tsai
+#   - Thomas Borak
+#   - Rafe McBeth
+#   - Lawrence Heilbronn
+#   - Lawrence Townsend
 
 - id: doi:10.1109/aero.2014.6836309
   # neutron fluences
