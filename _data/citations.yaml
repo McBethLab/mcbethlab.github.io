@@ -380,7 +380,7 @@
   orcid: 0000-0002-0924-6010
   plugin: sources.py
   file: sources.yaml
-  image: https://www.frontiersin.org/files/Articles/777793/fonc-12-777793-HTML/image_m/fonc-12-777793-g001.jpg
+  image: https://pub.mdpi-res.com/applsci/applsci-13-10097/article_deploy/html/images/applsci-13-10097-g001.png?1694088566
 - id: doi:10.1002/mp.13955
   title: "Incorporating human and learned domain knowledge into training deep neural\
     \ networks: A differentiable dose\u2010volume histogram and adversarial inspired\
