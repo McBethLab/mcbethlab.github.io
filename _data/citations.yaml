@@ -1,4 +1,4 @@
-tr# DO NOT EDIT, GENERATED AUTOMATICALLY
+# DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1016/j.compbiomed.2024.108605
   title: Exploring UMAP in hybrid models of entropy-based and representativeness sampling
@@ -539,6 +539,10 @@ tr# DO NOT EDIT, GENERATED AUTOMATICALLY
     of ANS, RPSD 2014
   date: '2022-05-31'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84942693221&partnerID=MN8TOARS
+  orcid: 0000-0002-0924-6010
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.ISSR.2014.02.005
   orcid: 0000-0002-0924-6010
   plugin: orcid.py
   file: orcid.yaml
