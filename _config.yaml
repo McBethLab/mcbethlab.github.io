@@ -1,13 +1,13 @@
 # site properties and page defaults
 title: McBethLab
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: Aligning AI for the fight against cancer
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@McBethLab.com
+  email: rafe.mcbeth@pennmedicine.upenn.edu
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
   github: McBethLab
